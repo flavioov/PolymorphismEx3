@@ -13,7 +13,7 @@ Favor implementar o programa conforme projeto abaixo.
 
 ## Estrutura - UML
 <p class="header">
-   <img src="system_structure.png" alt="structure.png">
+   <img src="/system_structure.png" alt="structure.png">
 </p>
 
 ## Exemplo de entrada
